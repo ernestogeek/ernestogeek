@@ -13,12 +13,7 @@
 ---
 ### 📊 GitHub Stats & Badges  
 
-![Profile Views](https://komarev.com/ghpvc/?username=edgarcltop&color=blue)  
-![Followers](https://img.shields.io/github/followers/edgarcltop?label=Followers&style=social)  
-![Stars](https://img.shields.io/github/stars/edgarcltop?label=Stars&style=social)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcltop&layout=compact)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edgarcltop&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcltop&layout=compact)   
 
 ---
 

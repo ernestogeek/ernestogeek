@@ -1,80 +1,82 @@
 <!-- Banner -->
 <p align="center">
-  <!-- <img src="https://i.imgur.com/z0O1f4c.gif" alt="hello world Ernesto banner" width="100%" /> -->
+  <img src="https://raw.githubusercontent.com/edgarcltop/edgarcltop/main/assets/banner-dev.svg" alt="Edgar - Software Engineer" />
+</p>
+
+<h2 align="center">👋 Hi, I'm Edgar — Software Engineer | Full Stack Developer | AI Enthusiast</h2>
+
+<p align="center">
+  💻 10+ years coding across front & back-end <br />
+  🎯 Passionate about building impactful tech products <br />
+  🧠 Exploring AI, LLMs, DevOps & Product Engineering <br />
 </p>
 
 ---
 
-### 👋 Hello World, I'm **Ernesto**!
+### 🛠️ What I'm Working On
 
-🧑‍💻 Software Engineer | 💡 Lifelong Learner | 🚀 Building products with impact
-
-- 🛠️ Currently working on open source & personal tech projects
-- 🎯 Goal: Make meaningful contributions to the tech ecosystem
-- ✨ Passionate about **TypeScript**, **JavaScript**, and full-stack development
-- 🌱 Learning more about system design, cloud, and DevOps
+- 🚀 Currently building **MVPs and scalable APIs** using FastAPI & TypeScript  
+- 🧠 Learning **LangChain** and **multi-agent LLM frameworks**  
+- 🗂️ All my projects are here 👉 [github.com/edgarcltop](https://github.com/edgarcltop)
 
 ---
 
-### 🧰 Tech & Tools I Use
+### 🎯 Ask Me About
+
+- Building **full-stack apps** with modern stacks
+- APIs with **FastAPI** / **Node.js**
+- **LLM integration** and AI agents
+- Writing **clean, scalable code** across frontend/backend
+
+---
+
+### 📫 Reach Me At
+
+- 📧 edgar.dev@example.com *(Replace with yours)*
+- 💼 [LinkedIn](https://linkedin.com/in/YOURUSERNAME)
+- 🌐 [Portfolio](https://yourwebsite.com)
+- 📺 [YouTube (optional)](https://youtube.com/@yourchannel)
+
+---
+
+### 🚀 Languages and Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
 </p>
 
 ---
 
-### 🌐 Let's Connect
+### 📊 GitHub Stats
 
-<p align="left">
-  <a href="mailto:ernestodev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <!-- <a href="https://twitter.com/ernestogeek"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edgarcltop&show_icons=true&theme=react" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edgarcltop&theme=react" width="47%" />
 </p>
 
 ---
 
 ### 🏆 GitHub Achievements
 
-<p align="left">
-  <img src="https://github.com/ernestogeek/ernestogeek/blob/main/assets/pull-shark-badge.svg" alt="Pull Shark" width="80"/>
-  <img src="https://github.com/ernestogeek/ernestogeek/blob/main/assets/starstruck-badge.svg" alt="Starstruck" width="80"/>
-  <!-- <img src="https://github.com/ernestogeek/ernestogeek/blob/main/assets/yolo-badge.svg" alt="YOLO" width="80"/> -->
+- 🦈 **Pull Shark** – Regular PR contributions
+- 🌟 **Starstruck** – Repos with stars!
+- 🚀 **YOLO** – Merged PRs without review like a boss 😎
+
+---
+
+### ⚡ Fun Fact
+
+> I believe great software starts with great documentation and ends with even better user experiences.
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212745708-b0e39f92-3e19-4d2e-9fcb-51d1b1e0b7b4.gif" width="400" />
 </p>
-
-> ✅ _Pull Shark_ — from submitting PRs  
-> 🌟 _Starstruck_ — your repositories are starred  
-> 🚀 _YOLO_ — you merged PRs without review (you rebel 🤘)
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestogeek&layout=compact&theme=tokyonight" />
-  <br />
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ernestogeek&show_icons=true&theme=tokyonight" /> -->
-</p>
-
----
-
-### 🎵 Fun Facts About Me
-
-- 📚 I read tech blogs and sci-fi books
-- 🎧 I enjoy coding to synthwave and lo-fi beats
-- 🧩 I love solving logic puzzles and building with LEGO
-- 🐱 Cat person. No further explanation needed.
-
----
-
-### 🧠 A Quote to Code By
-
-> _“Programs must be written for people to read, and only incidentally for machines to execute.”_  
-> — Harold Abelson
-
----

@@ -1,59 +1,59 @@
-# 👋 Hi, I'm Jon - Mobile Engineer & Cross-Platform Enthusiast
-
-> ✨ **Bridging the gap between beautiful design and robust, high-performance mobile code.** I specialize in delivering intuitive, delightful user experiences across iOS and Android.
-
----
-
-## 🛠️ My Core Tech Stack
-
-| Category | Technologies I Master |
-| :--- | :--- |
-| **Mobile** | [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/) [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/) [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/) |
-| **Frontend** | [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) |
-| **Backend** | [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/) [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) |
-| **Tooling/DevOps** | [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) |
-
----
-
-## 🔭 Currently Focused On
-
-* **Project:** Architecting a scalable mobile payment system with **Flutter** and microservices.
-* **Learning:** Deep dive into **Jetpack Compose** (modern Android UI toolkit) for future Android native work.
-* **Contributing:** Actively reviewing and merging Pull Requests for my most starred repo, **`Awesome-Mobile-UX`**.
-* **Goal:** Speaking at a local developer meetup about Dart/Flutter state management.
-
----
-
-## 🏆 Open Source Contributions & Achievements
-
-Here are a few highlights of my work, proving commitment and quality:
-
-| Achievement | Description |
-| :--- | :--- |
-| **Pull Shark 🦈** | Over **50+ PRs** merged across various open-source projects. |
-| **Starstruck ✨** | Successfully drove a project from 0 to **1.2k stars** by focusing on clear documentation and active maintenance. |
-| **YOLO Contributor** | Recognized for high-quality, dependable commits that are often merged without requiring a review. |
-| **Top 5% Contributor** | Featured in the annual wrap-up for my work on the **`TS-Utility-Library`**. |
-
----
-
-## 🔥 GitHub Stats & Activity
-
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jonbation&show_icons=true&theme=buefy&hide_border=true" alt="Jon's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonbation&layout=compact&theme=buefy&hide_border=true" alt="Jon's Top Languages" />
+  <img src="[Your Profile Image Link]" width="150" height="150" style="border-radius: 50%;">
+  
+  <h1>JONBATION</h1>
+  <h2>THE MOBILE & CROSS-PLATFORM DEV</h2>
 </p>
 
 ---
 
-## 📬 Connect With Me
+<p align="center">
+  A passionate Mobile Engineer specializing in **Flutter, Swift, and TypeScript**. I work in the tech ecosystem building impactful cross-platform applications and in my free time I contribute to open source projects.
+</p>
 
-Let's collaborate on a project or just chat about the latest in mobile tech!
+<p align="center">
+  <img src="https://profile-counter.glitch.me/jonbation/count.svg" alt="Profile views">
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([Your LinkedIn URL Here])
-[![Twitter/X](https://img.shields.io/badge/Twitter/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([Your Twitter URL Here])
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([Your Personal Website/Portfolio URL Here])
+---
 
-***
+<p align="center">
+  <img src="[Link to a Developer Illustration Image]" width="350" alt="Developer Illustration">
+</p>
 
-**Thank you for visiting! Feel free to drop a star on any project you find interesting.**
+<ul>
+  <li>📌 I'm currently working on **a scalable mobile payment system** built with Flutter.</li>
+  <li>🌱 I'm currently learning advanced **Kubernetes** concepts for better orchestration.</li>
+  <li>💻 All of my major projects and repos are available at <a href="https://github.com/yourusername">https://github.com/yourusername</a></li>
+  <li>❓ Ask me about **Cross-Platform UX & State Management** in mobile apps.</li>
+  <li>📧 How to reach me: **your.professional.email@email.com**</li>
+</ul>
+
+---
+
+## Connect with me:
+
+<p align="center">
+  <a href="[Your LinkedIn URL]">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="[Your Twitter/X URL]">
+    <img src="https://img.shields.io/badge/Twitter/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="[Your Portfolio/Website URL]">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+---
+
+## Languages and Tools:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</p>

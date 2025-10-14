@@ -30,10 +30,5 @@ Here are a few highlights of my work, proving commitment and quality:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonbation&layout=compact&theme=buefy&hide_border=true" alt="Jon's Top Languages" />
 </p>
 ---
-## :mailbox_with_mail: Connect With Me
-Let's collaborate on a project or just chat about the latest in mobile tech!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([Your LinkedIn URL Here])
-[![Twitter/X](https://img.shields.io/badge/Twitter/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([Your Twitter URL Here])
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([Your Personal Website/Portfolio URL Here])
-***
+
 **Thank you for visiting! Feel free to drop a star on any project you find interesting.**

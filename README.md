@@ -34,7 +34,7 @@
 
 <p align="left">
   <a href="mailto:ernestodev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/ernestogeek"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <!-- <a href="https://twitter.com/ernestogeek"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a> -->
 </p>
 
 ---

@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/z0O1f4c.gif" alt="hello world Ernesto banner" width="100%" />
+  <!-- <img src="https://i.imgur.com/z0O1f4c.gif" alt="hello world Ernesto banner" width="100%" /> -->
 </p>
 
 ---

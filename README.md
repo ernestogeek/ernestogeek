@@ -33,6 +33,7 @@
 
 <p align="center">
   <img src="[Link to a Mobile Dev or Coding Illustration]" width="450" alt="Illustration of a Mobile Developer">
+  <img src="http://googleusercontent.com/image_collection/image_retrieval/3395298155809522642_0" width="450" alt="Illustration of a Mobile Developer">
 </p>
 
 ---

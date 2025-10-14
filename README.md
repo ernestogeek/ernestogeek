@@ -34,7 +34,6 @@
 
 <p align="left">
   <a href="mailto:ernesto@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ernestogeek/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/ernestogeek"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
 </p>
 
@@ -45,7 +44,7 @@
 <p align="left">
   <img src="https://github.com/ernestogeek/ernestogeek/blob/main/assets/pull-shark-badge.svg" alt="Pull Shark" width="80"/>
   <img src="https://github.com/ernestogeek/ernestogeek/blob/main/assets/starstruck-badge.svg" alt="Starstruck" width="80"/>
-  <img src="https://github.com/ernestogeek/ernestogeek/blob/main/assets/yolo-badge.svg" alt="YOLO" width="80"/>
+  <!-- <img src="https://github.com/ernestogeek/ernestogeek/blob/main/assets/yolo-badge.svg" alt="YOLO" width="80"/> -->
 </p>
 
 > ✅ _Pull Shark_ — from submitting PRs  

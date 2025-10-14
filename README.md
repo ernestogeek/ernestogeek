@@ -26,7 +26,6 @@ Here are a few highlights of my work, proving commitment and quality:
 ---
 ## :fire: GitHub Stats & Activity
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jonbation&show_icons=true&theme=buefy&hide_border=true" alt="Jon's GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonbation&layout=compact&theme=buefy&hide_border=true" alt="Jon's Top Languages" />
 </p>
 ---

@@ -4,7 +4,7 @@
 - :dart: Goal: Make meaningful contributions to the tech ecosystem
 - :sparkles: Passionate about **TypeScript**, **JavaScript**, and full-stack development
 - :seedling: Learning more about system design, cloud, and DevOps
----
+
 ### :toolbox: Tech & Tools I Use
 <p align="left">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -21,7 +21,7 @@
   <a href="mailto:ernestodev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <!-- <a href="https://twitter.com/ernestogeek"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a> -->
 </p>
----
+
 ### :trophy: GitHub Achievements
 <p align="left">
   <img src="https://github.com/ernestogeek/ernestogeek/blob/main/assets/pull-shark-badge.svg" alt="Pull Shark" width="80"/>
@@ -38,13 +38,13 @@
   <br />
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=ernestogeek&show_icons=true&theme=tokyonight" /> -->
 </p>
----
+
 ### :musical_note: Fun Facts About Me
 - :books: I read tech blogs and sci-fi books
 - :headphones: I enjoy coding to synthwave and lo-fi beats
 - :jigsaw: I love solving logic puzzles and building with LEGO
 - :cat: Cat person. No further explanation needed.
----
+
 ### :brain: A Quote to Code By
 > _“Programs must be written for people to read, and only incidentally for machines to execute.”_
 > — Harold Abelson

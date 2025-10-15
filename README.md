@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
----
+
 ### :globe_with_meridians: Let's Connect
 <p align="left">
   <a href="mailto:ernestodev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -31,7 +31,8 @@
 > :white_check_mark: _Pull Shark_ — from submitting PRs
 > :star2: _Starstruck_ — your repositories are starred
 > :rocket: _YOLO_ — you merged PRs without review (you rebel :the_horns:)
----
+
+
 ### :bar_chart: GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestogeek&layout=compact&theme=tokyonight" />
@@ -48,6 +49,4 @@
 ### :brain: A Quote to Code By
 > _“Programs must be written for people to read, and only incidentally for machines to execute.”_
 > — Harold Abelson
----
 
-(503 B)
